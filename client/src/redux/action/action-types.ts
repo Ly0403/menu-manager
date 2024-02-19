@@ -1,0 +1,6 @@
+export const GET_MENUS="GET_MENUS";
+export const ADD_MENU="ADD_MENU";
+export const DELETE_MENU="DELETE_MENU";
+export const GET_CURRENT_MENU="GET_CURRENT_MENU";
+export const SET_CURRENT_MENU="SET_CURRENT_MENU";
+export const UPDATE_MENU="UPDATE_MENU";

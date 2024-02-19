@@ -1,0 +1,1 @@
+type Query = <QV, RT>(name: string, query: DocumentNode, variables?: QV) => Promise<RT>;
